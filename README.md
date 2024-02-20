@@ -1,4 +1,4 @@
-# Tournament-Hamiltonian-Cycle-Algorithm
-This program when given a tournament will return a Hamiltonian Cycle if there is one present in the tournament
+# Bipartite-Graphs
+This program when given a graph will return if the graph is bipartite or not.
 
-Some of my first work with algorithms and understanding the concepts associated with tournaments.
+In this case I decided to implement this by using DFS.
